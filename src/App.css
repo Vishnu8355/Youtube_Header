@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #181818;
+  --secondary-color: #212121;
+  --secondary-light-color: #383838;
+  --main-secondary-light: #717171;
+  --text-light-main: #aaaaaa;
+  --hover-text-color: #4d4d4d;
+  --text-main: #fff;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
